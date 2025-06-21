@@ -46,28 +46,28 @@
 
 ## **PART II: PSYCHOLOGY-DRIVEN DESIGN**
 
-### **Chapter 4: Visual Psychology & Interface Design**
+### **[Chapter 4: Visual Psychology & Interface Design](chapters/part-2-psychology-driven-design/chapter-04-visual-psychology.md)**
 - Color Psychology for SaaS (Trust, Urgency, Growth)
 - Typography Psychology (Authority, Readability, Emotion)
 - Visual Hierarchy and Attention Control
 - Gestalt Principles in Interface Design
 - Cultural Psychology of Design
 
-### **Chapter 5: Interaction Psychology**
+### **[Chapter 5: Interaction Psychology](chapters/part-2-psychology-driven-design/chapter-05-interaction-psychology.md)**
 - Microinteractions and Dopamine Triggers
 - Feedback Loops and Behavioral Reinforcement
 - The Psychology of Loading States and Wait Times
 - Error Psychology and Recovery Design
 - Gesture Psychology for Touch Interfaces
 
-### **Chapter 6: Information Architecture Psychology**
+### **[Chapter 6: Information Architecture Psychology](chapters/part-2-psychology-driven-design/chapter-06-information-architecture-psychology.md)**
 - Mental Models and User Expectations
 - Category Psychology and Information Organization
 - Search Behavior and Information Seeking
 - Navigation Psychology and Wayfinding
 - The Psychology of Progressive Disclosure
 
-### **Chapter 7: Cognitive Load Management**
+### **[Chapter 7: Cognitive Load Management](chapters/part-2-psychology-driven-design/chapter-07-cognitive-load-management.md)**
 - Reducing Decision Fatigue
 - Chunking and Information Processing
 - The Psychology of Simplicity vs Feature Richness

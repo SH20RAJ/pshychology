@@ -866,7 +866,7 @@ pyramid
 **Next:** [Chapter 11: First-Use Psychology](../part-5-activation-psychology/chapter-11-first-use-psychology.md)
 
 **Related Chapters:**
-- [Chapter 6: Social Psychology and Network Effects](../part-2-behavioral-psychology/chapter-06-social-psychology-network-effects.md)
+- [Chapter 20: Network Effects Psychology](../part-7-advanced-psychological-strategies/chapter-20-network-effects-psychology.md)
 - [Chapter 26: The Psychology of Market Categories](../part-9-psychological-moats/chapter-26-psychology-market-categories.md)
 
 ---

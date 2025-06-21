@@ -930,7 +930,7 @@ Success = (Trust Signals × Message Clarity × Visual Appeal) / (Cognitive Load 
 
 **Related Chapters:**
 - [Chapter 2: Cognitive Load and User Interface Design](../part-1-human-foundation/chapter-02-cognitive-load-ui-design.md)
-- [Chapter 4: The Psychology of Persuasion in SaaS](../part-2-behavioral-psychology/chapter-04-psychology-persuasion-saas.md)
+- [Chapter 12: Habit Formation in SaaS](../part-4-activation-onboarding-psychology/chapter-12-habit-formation-saas.md)
 
 ---
 

@@ -1280,7 +1280,7 @@ Conversion Success = (Psychological Alignment × Trust × Value Clarity) / (Cogn
 **Next:** [Chapter 10: Pricing Psychology and Value Perception](./chapter-10-pricing-psychology-value-perception.md)
 
 **Related Chapters:**
-- [Chapter 4: The Psychology of Persuasion in SaaS](../part-2-behavioral-psychology/chapter-04-psychology-persuasion-saas.md)
+- [Chapter 12: Habit Formation in SaaS](../part-4-activation-onboarding-psychology/chapter-12-habit-formation-saas.md)
 - [Chapter 7: Decision-Making Psychology and User Choice](../part-3-decision-psychology/chapter-07-decision-making-psychology-user-choice.md)
 
 ---
