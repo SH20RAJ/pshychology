@@ -96,7 +96,7 @@ After reading this book, you'll be able to:
 
 ## 🤝 **About the Author**
 
-*[Author bio and credentials would go here]*
+Shaswat Raj - https://shaswat.live
 
 ---
 
@@ -108,7 +108,7 @@ See [index.md](./index.md) for the complete chapter breakdown and learning path.
 
 ## 🔗 **Resources**
 
-- **Companion Website**: [saaspsychology.com](https://saaspsychology.com)
+- **Website**: [iamsh.gitbook.io/saas-psychology](https://iamsh.gitbook.io/saas-psychology)
 - **Case Study Database**: Real-world examples and analysis
 - **Template Library**: Ready-to-use frameworks and tools
 - **Community Forum**: Connect with other psychology-driven builders
