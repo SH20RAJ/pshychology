@@ -1,4 +1,5 @@
-# The Psychology of SaaS: Designing, Marketing, and Growing Addictive Products
+# The Psychology of SaaS
+## The Psychology of SaaS: Designing, Marketing, and Growing Addictive Products
 
 *The Ultimate Guide to Building Billion-Dollar SaaS Companies Through Deep Human Psychology*
 

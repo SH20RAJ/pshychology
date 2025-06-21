@@ -1,4 +1,5 @@
-# The Psychology of SaaS: Complete Table of Contents
+# Table of Contents
+## The Psychology of SaaS: Complete Table of Contents
 
 *The Ultimate Guide to Building Billion-Dollar SaaS Companies Through Deep Human Psychology*
 
